@@ -29,13 +29,13 @@ Hi, I'm Aniruddha Chaki (Rick) 🙌, an Engineer, Developer, and AI/ML Enthusias
 
 - 🔭 I’m currently a Graduate Student at the University of California, Irvine.
 - 🌱 I’m currently working as a Graduate Research and Teaching Assistant.
-- I'm experienced in developing softwares
+- 🧑🏻‍💻 I'm experienced in developing softwares
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything; I would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/rickchaki/)
-- 📸 I love photography.[ArtGallery](https://www.instagram.com/rickchaki/)
+- 📸 I love photography.[PhotoGallery](https://www.instagram.com/rickchaki/)
 
 
 
